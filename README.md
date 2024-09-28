@@ -1,18 +1,16 @@
-# Nome do projeto
+# A utilização de metodologias ágeis no desenvolvimentos de projetos
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+Como o contato com o método no meio acadêmico muda a qualidade das
+entregas e a performance dos profissionais no mercado
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Giovanna Naves Ribeiro
+* Lívia Alves Ferreira
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Leonardo Vilela Cardoso
 
 ## Instruções de Replicação/Reprodução
 
